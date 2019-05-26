@@ -16,7 +16,11 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
 
+ // Variables
  @import "base/variables";
+
+ // Base default styles
+ @import "base/default";
 
  @import "partials/*";
  @import "partials/layout/*";
